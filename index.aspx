@@ -46,7 +46,7 @@
 <link rel="stylesheet" href="/Content/flaticon.css" media="print" onload="this.media='all'" />
 <link rel="stylesheet" href="/Content/animate.min.css" media="print" onload="this.media='all'" />
 <link rel="stylesheet" href="/Content/magnific-popup.min.css" media="print" onload="this.media='all'" />
-<link rel="stylesheet" href="/Content/owl.carousel.min.css" media="print" onload="this.media='all'" />
+<link rel="stylesheet" href="/https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" media="print" onload="this.media='all'" />
 <link rel="stylesheet" href="/Content/jquery-ui.min.css" media="print" onload="this.media='all'" />
 <link rel="stylesheet" href="/Content/nice-select.min.css" media="print" onload="this.media='all'" />
 <noscript>
@@ -54,7 +54,7 @@
 <link rel="stylesheet" href="/Content/flaticon.css" />
 <link rel="stylesheet" href="/Content/animate.min.css" />
 <link rel="stylesheet" href="/Content/magnific-popup.min.css" />
-<link rel="stylesheet" href="/Content/owl.carousel.min.css" />
+<link rel="stylesheet" href="/https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
 <link rel="stylesheet" href="/Content/jquery-ui.min.css" />
 <link rel="stylesheet" href="/Content/nice-select.min.css" />
 </noscript>

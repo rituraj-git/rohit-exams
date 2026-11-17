@@ -46,7 +46,7 @@ src="https://www.facebook.com/tr?id=914355897307328&ev=PageView&noscript=1"
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/flaticon.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/animate.min.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/magnific-popup.min.css"/>
-    <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/jquery-ui.min.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/nice-select.min.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/style.css"/>

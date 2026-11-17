@@ -61,7 +61,7 @@ src="https://www.facebook.com/tr?id=914355897307328&ev=PageView&noscript=1"
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/flaticon.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/animate.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/magnific-popup.min.css"/>
-    <link rel="stylesheet" href="https://www.clearallexams.in/Content/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/jquery-ui.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/nice-select.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/style.css"/>

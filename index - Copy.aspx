@@ -42,7 +42,7 @@
 <link rel="stylesheet" href="https://www.nismexams.in/Content/flaticon.css"/>
 <link rel="stylesheet" href="https://www.nismexams.in/Content/animate.min.css"/>
 <link rel="stylesheet" href="https://www.nismexams.in/Content/magnific-popup.min.css"/>
-<link rel="stylesheet" href="https://www.nismexams.in/Content/owl.carousel.min.css"/>
+<link rel="stylesheet" href="https://www.nismexams.in/https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
 <link rel="stylesheet" href="https://www.nismexams.in/Content/jquery-ui.min.css"/>
 <link rel="stylesheet" href="https://www.nismexams.in/Content/nice-select.min.css"/>
 <link rel="stylesheet" href="https://www.nismexams.in/Content/style.css"/>
