@@ -43,7 +43,7 @@ src="https://www.facebook.com/tr?id=914355897307328&ev=PageView&noscript=1"
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/magnific-popup.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/owl.carousel.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/jquery-ui.min.css"/>
-    <link href="https://www.clearallexams.in/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="https://www.clearallexams.in/Content/bootstrap-select.min.css" rel="stylesheet" />
     <link href="https://www.clearallexams.in/Content/style.css" rel="stylesheet" />
 </head>

@@ -46,7 +46,7 @@ src="https://www.facebook.com/tr?id=914355897307328&ev=PageView&noscript=1"
     <!-- css -->
    <link rel="icon" type="image/x-icon" href="https://www.ClearAllExams.in/images/favicon.png"/>
     <!-- css -->
-    <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/all-fontawesome.min.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/flaticon.css"/>
     <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/animate.min.css"/>

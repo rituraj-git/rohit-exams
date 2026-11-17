@@ -28,7 +28,7 @@
 
   <link rel="icon" type="image/x-icon" href="https://www.ClearAllExams.in/images/favicon.png" />
 
-  <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/all-fontawesome.min.css" />
   <link rel="stylesheet" href="https://www.ClearAllExams.in/Content/style.css" />
 

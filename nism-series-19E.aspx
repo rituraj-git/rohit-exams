@@ -49,7 +49,7 @@
 
     <!-- CSS Links -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://www.clearallexams.in/Content/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/all-fontawesome.min.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/flaticon.css"/>
     <link rel="stylesheet" href="https://www.clearallexams.in/Content/animate.min.css"/>
