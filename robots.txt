@@ -1,0 +1,97 @@
+
+# General search engine access
+User-agent: *
+Allow: /
+
+# Block private and administrative sections
+Disallow: /admin/
+Disallow: /adminpanel/
+Disallow: /login
+Disallow: /register
+Disallow: /mydashboard
+Disallow: /dashboard/
+Disallow: /my-account/
+Disallow: /account/
+Disallow: /profile/
+Disallow: /checkout/
+Disallow: /payment/
+Disallow: /cart/
+Disallow: /api/
+Disallow: /webapi/
+
+# Block internal search and parameter-based URLs
+Disallow: /*?*search=
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# Allow important static resources
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /assets/
+
+# OpenAI Search crawler
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /adminpanel/
+Disallow: /login
+Disallow: /register
+Disallow: /mydashboard
+Disallow: /dashboard/
+Disallow: /my-account/
+Disallow: /account/
+Disallow: /profile/
+Disallow: /checkout/
+Disallow: /payment/
+Disallow: /cart/
+Disallow: /api/
+Disallow: /webapi/
+Disallow: /*?*search=
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# OpenAI GPT crawler
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /adminpanel/
+Disallow: /login
+Disallow: /register
+Disallow: /mydashboard
+Disallow: /dashboard/
+Disallow: /my-account/
+Disallow: /account/
+Disallow: /profile/
+Disallow: /checkout/
+Disallow: /payment/
+Disallow: /cart/
+Disallow: /api/
+Disallow: /webapi/
+Disallow: /*?*search=
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# ChatGPT user-initiated access
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /adminpanel/
+Disallow: /login
+Disallow: /register
+Disallow: /mydashboard
+Disallow: /dashboard/
+Disallow: /my-account/
+Disallow: /account/
+Disallow: /profile/
+Disallow: /checkout/
+Disallow: /payment/
+Disallow: /cart/
+Disallow: /api/
+Disallow: /webapi/
+Disallow: /*?*search=
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# Sitemap
+Sitemap: https://www.clearallexams.in/sitemap.xml

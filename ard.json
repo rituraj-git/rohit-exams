@@ -1,0 +1,848 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "ClearAllExams.in"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-v-a",
+      "displayName": "NISM Series V-A: Mutual Fund Distributors Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series V-A: Mutual Fund Distributors Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-5a-mutual-fund-distributors-certification-mock-tests",
+        "description": "NISM Series V-A mock test course for the Mutual Fund Distributors exam: 900 Mock Questions, chapter-wise video lectures, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/Mutual-Fund-Distributors-Mock-Test/6",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-V-A-Mutual-Fund-Distributors-Certification-Examination/6"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series V-A mock test",
+        "Mutual Fund Distributors exam practice questions",
+        "free Mutual Fund Distributors demo test",
+        "Mutual Fund Distributors exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-viii",
+      "displayName": "NISM Series VIII: Equity Derivatives Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series VIII: Equity Derivatives Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-8-equity-derivatives-certification-mock-tests",
+        "description": "NISM Series VIII mock test course for the Equity Derivatives exam: 800 Mock Questions, chapter-wise video lectures, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/Equity-Derivatives-Certification-Mock-Test/10",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-VIII-Equity-Derivatives-Certification-Examination/10"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series VIII mock test",
+        "Equity Derivatives exam practice questions",
+        "free Equity Derivatives demo test",
+        "Equity Derivatives exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xv",
+      "displayName": "NISM Series XV: Research Analyst Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XV: Research Analyst Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-15-research-analyst-certification-mock-tests",
+        "description": "NISM Series XV mock test course for the Research Analyst exam: 900 Mock Questions, chapter-wise video lectures, 40 Case Study Questions, quick revision notes. Free demo test: https://www.clearallexams.in/demo/nism-exams-15-research-analyst-certification-mock-tests-Mock-Test/16",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XV-Research-Analyst-Certification-Examination/16"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XV mock test",
+        "Research Analyst exam practice questions",
+        "free Research Analyst demo test",
+        "Research Analyst exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-i",
+      "displayName": "NISM Series I: Currency Derivatives Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series I: Currency Derivatives Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-1-currency-derivatives-certification-mock-tests",
+        "description": "NISM Series I mock test course for the Currency Derivatives exam: 800 Mock Questions, chapter-wise video lectures, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/Currency-Derivatives-Certification-Mock-Test/1",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-I-Currency-Derivatives-Certification-Examination/1"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series I mock test",
+        "Currency Derivatives exam practice questions",
+        "free Currency Derivatives demo test",
+        "Currency Derivatives exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xiii",
+      "displayName": "NISM Series XIII: Common Derivative Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XIII: Common Derivative Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-13-common-derivative-certification-mock-tests",
+        "description": "NISM Series XIII mock test course for the Common Derivative exam: 2200 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/nism-exams-13-common-derivative-certification-mock-tests/15",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 1198,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-exams-13-common-derivative-certification-mock-tests/15"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XIII mock test",
+        "Common Derivative exam practice questions",
+        "free Common Derivative demo test",
+        "Common Derivative exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-vi",
+      "displayName": "NISM Series VI: Depository Operations Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series VI: Depository Operations Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-6-depository-operations-certification-mock-tests",
+        "description": "NISM Series VI mock test course for the Depository Operations exam: 800 Mock Questions, chapter-wise video lectures, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/Depository-Operations-Certification-Mock-Test/8",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-VI-Depository-Operations-Certification-Examination/8"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series VI mock test",
+        "Depository Operations exam practice questions",
+        "free Depository Operations demo test",
+        "Depository Operations exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xxi-a",
+      "displayName": "NISM Series XXI-A: Portfolio Management Services (PMS) Distributors Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XXI-A: Portfolio Management Services (PMS) Distributors Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-21a-portfolio-management-services-pms-certification-mock-tests",
+        "description": "NISM Series XXI-A mock test course for the Portfolio Management Services (PMS) Distributors exam: 800 Mock Questions, explained Q&A, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/Portfolio-Management-PMS-Mock-Test/19",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XXI-A-Portfolio-Management-Services-(PMS)-Distributors-Certification-Examination/19"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XXI-A mock test",
+        "Portfolio Management Services (PMS) Distributors exam practice questions",
+        "free Portfolio Management Services (PMS) Distributors demo test",
+        "Portfolio Management Services (PMS) Distributors exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xxi-b",
+      "displayName": "NISM Series XXI-B: Portfolio Managers Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XXI-B: Portfolio Managers Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-21b-portfolio-managers-certification-mock-tests",
+        "description": "NISM Series XXI-B mock test course for the Portfolio Managers exam: 760 Mock Questions, 40 Case Study Questions, latest syllabus updates, explained Q&A. Free demo test: https://www.clearallexams.in/demo/Portfolio-Managers-Certification-Mock-Test/21",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XXI-B-Portfolio-Managers-Certification-Examination/21"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XXI-B mock test",
+        "Portfolio Managers exam practice questions",
+        "free Portfolio Managers demo test",
+        "Portfolio Managers exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-x-a",
+      "displayName": "NISM Series X-A: Investment Adviser (Level 1) Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series X-A: Investment Adviser (Level 1) Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-10a-investment-adviser-level-1-certification-mock-tests",
+        "description": "NISM Series X-A mock test course for the Investment Adviser (Level 1) exam: 500 Mock Questions, 35 Case Study Questions, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/nism-exams-10a-investment-adviser-level-1-certification-mock-tests/12",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-X-A-Investment-Adviser(Level-1)-Certification-Examination/12"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series X-A mock test",
+        "Investment Adviser (Level 1) exam practice questions",
+        "free Investment Adviser (Level 1) demo test",
+        "Investment Adviser (Level 1) exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-x-b",
+      "displayName": "NISM Series X-B: Investment Adviser (Level 2) Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series X-B: Investment Adviser (Level 2) Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-10b-investment-adviser-level-2-certification-mock-tests",
+        "description": "NISM Series X-B mock test course for the Investment Adviser (Level 2) exam: 670 Mock Questions, 32 Case Study Questions, latest syllabus updates, explained Q&A. Free demo test: https://www.clearallexams.in/demo/nism-exams-10b-investment-adviser-level-2-certification-mock-tests/13",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-X-B-Investment-Adviser-(Level-2)-Certification-Examination/13"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series X-B mock test",
+        "Investment Adviser (Level 2) exam practice questions",
+        "free Investment Adviser (Level 2) demo test",
+        "Investment Adviser (Level 2) exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-vii",
+      "displayName": "NISM Series VII: Securities Operations & Risk Management Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series VII: Securities Operations & Risk Management Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-7-securities-operations-risk-management-certification-mock-tests",
+        "description": "NISM Series VII mock test course for the Securities Operations & Risk Management exam: 700 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/Securities-Operations-And-Risk-Management-Mock-Test/9",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-VII-Securities-Operations-and-Risk-Management%20Certification-Examination/9"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series VII mock test",
+        "Securities Operations & Risk Management exam practice questions",
+        "free Securities Operations & Risk Management demo test",
+        "Securities Operations & Risk Management exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-ix",
+      "displayName": "NISM Series IX: Merchant Banking Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series IX: Merchant Banking Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-9-merchant-banking-certification-mock-tests",
+        "description": "NISM Series IX mock test course for the Merchant Banking exam: 700 Mock Questions, chapter-wise video lectures, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/Merchant-Banking-Certification-Mock-Test/11",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-IX-Merchant-Banking-Certification-Examination/11"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series IX mock test",
+        "Merchant Banking exam practice questions",
+        "free Merchant Banking demo test",
+        "Merchant Banking exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xix-c",
+      "displayName": "NISM Series XIX-C: Alternative Investment Funds (AIF) Managers Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XIX-C: Alternative Investment Funds (AIF) Managers Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-19c-alternative-investment-fund-managers-certification-mock-tests",
+        "description": "NISM Series XIX-C mock test course for the Alternative Investment Funds (AIF) Managers exam: 860 Mock Questions, explained Q&A, latest syllabus updates, 46 Case Study Questions. Free demo test: https://www.clearallexams.in/demo/NISM-Series-XIX-C-Alternative-Investment-Fund-Managers-Examination/1002",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XIX-C-Alternative-Investment-Fund-Managers-Examination/1002"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XIX-C mock test",
+        "Alternative Investment Funds (AIF) Managers exam practice questions",
+        "free Alternative Investment Funds (AIF) Managers demo test",
+        "Alternative Investment Funds (AIF) Managers exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xix-d",
+      "displayName": "NISM Series XIX-D: Category I & II AIF Managers Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XIX-D: Category I & II AIF Managers Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-19d-alternative-investment-fund-managers-certification-mock-tests",
+        "description": "NISM Series XIX-D mock test course for the Category I & II AIF Managers exam: 850 Mock Questions, explained Q&A, latest syllabus updates, 40 Case Study Questions. Free demo test: https://www.clearallexams.in/demo/nism-exams-19d-alternative-investment-fund-managers-certification-mock-tests/1008",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-exams-19d-alternative-investment-fund-managers-certification-mock-tests/1008"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XIX-D mock test",
+        "Category I & II AIF Managers exam practice questions",
+        "free Category I & II AIF Managers demo test",
+        "Category I & II AIF Managers exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-iv",
+      "displayName": "NISM Series IV: Interest Rates Derivatives Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series IV: Interest Rates Derivatives Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-4-interest-rates-derivatives-certification-examination-mock-tests",
+        "description": "NISM Series IV mock test course for the Interest Rates Derivatives exam: 500+ Mock Questions, explained Q&A, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/NISM-Series-IV-Interest-Rates-Derivatives-Certification-Examination/5",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-IV-Interest-Rates-Derivatives-Certification-Examination/5"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series IV mock test",
+        "Interest Rates Derivatives exam practice questions",
+        "free Interest Rates Derivatives demo test",
+        "Interest Rates Derivatives exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xvii",
+      "displayName": "NISM Series XVII: Retirement Adviser Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XVII: Retirement Adviser Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-17-retirement-adviser-certification-mock-tests",
+        "description": "NISM Series XVII mock test course for the Retirement Adviser exam: 500 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/NISM-Series-XVII-Retirement-Adviser-Certification-Examination/18",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XVII-Retirement-Adviser-Certification-Examination/18"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XVII mock test",
+        "Retirement Adviser exam practice questions",
+        "free Retirement Adviser demo test",
+        "Retirement Adviser exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xvi",
+      "displayName": "NISM Series XVI: Commodity Derivatives Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XVI: Commodity Derivatives Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-16-commodity-derivatives-certification-mock-tests",
+        "description": "NISM Series XVI mock test course for the Commodity Derivatives exam: 600 Mock Questions, explained Q&A, latest syllabus updates, quick revision notes. Free demo test: https://www.clearallexams.in/demo/Commodity-Derivatives-Certification-Mock-Test/17",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XVI-Commodity-Derivatives-Certification-Examination/17"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XVI mock test",
+        "Commodity Derivatives exam practice questions",
+        "free Commodity Derivatives demo test",
+        "Commodity Derivatives exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xii",
+      "displayName": "NISM Series XII: Securities Markets Foundation Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XII: Securities Markets Foundation Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-series-12-securities-markets-foundation-certification-mock-tests",
+        "description": "NISM Series XII mock test course for the Securities Markets Foundation exam: 600 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/NISM-Series-XII-Securities-Markets-Foundation-Certification-Examination/14",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XII-Securities-Markets-Foundation-Certification-Examination/14"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XII mock test",
+        "Securities Markets Foundation exam practice questions",
+        "free Securities Markets Foundation demo test",
+        "Securities Markets Foundation exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-iii-a",
+      "displayName": "NISM Series III-A: Securities Intermediaries Compliance (Non-Fund) Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series III-A: Securities Intermediaries Compliance (Non-Fund) Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-series-3a-securities-intermediaries-compliance-non-fund-certification-mock-tests",
+        "description": "NISM Series III-A mock test course for the Securities Intermediaries Compliance (Non-Fund) exam: 600 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/NISM-Series-III-A--Securities-Intermediaries-Compliance-(Non-Fund)-Certification-Examination/4",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-III-A--Securities-Intermediaries-Compliance-(Non-Fund)-Certification-Examination/4"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series III-A mock test",
+        "Securities Intermediaries Compliance (Non-Fund) exam practice questions",
+        "free Securities Intermediaries Compliance (Non-Fund) demo test",
+        "Securities Intermediaries Compliance (Non-Fund) exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-iii-c",
+      "displayName": "NISM Series III-C: Securities Intermediaries Compliance (Fund) Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series III-C: Securities Intermediaries Compliance (Fund) Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-series-3c-securities-intermediaries-compliance-fund-certification-mock-test",
+        "description": "NISM Series III-C mock test course for the Securities Intermediaries Compliance (Fund) exam: 700 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/nism-series-3-C-securities-intermediaries-compliance-fund-certification-mock-test/1010",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-series-3-C-securities-intermediaries-compliance-fund-certification-mock-test/1010"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series III-C mock test",
+        "Securities Intermediaries Compliance (Fund) exam practice questions",
+        "free Securities Intermediaries Compliance (Fund) demo test",
+        "Securities Intermediaries Compliance (Fund) exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xix-a",
+      "displayName": "NISM Series XIX-A: Alternative Investment Funds (Category I and II) Distributors Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XIX-A: Alternative Investment Funds (Category I and II) Distributors Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-series-19a-alternative-investment-funds-category-1-and-2-distributors-certification-mock-tests",
+        "description": "NISM Series XIX-A mock test course for the Alternative Investment Funds (Category I and II) Distributors exam: 600 Mock Questions, explained Q&A, latest syllabus updates, 24 Case Study Questions. Free demo test: https://www.clearallexams.in/demo/NISM-Series-XIX-A-Alternative-Investment-Funds-(Category-I-and-II)-Distributors-Examination/1003",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-XIX-A-Alternative-Investment-Funds-(Category-I-and-II)-Distributors-Examination/1003"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XIX-A mock test",
+        "Alternative Investment Funds (Category I and II) Distributors exam practice questions",
+        "free Alternative Investment Funds (Category I and II) Distributors demo test",
+        "Alternative Investment Funds (Category I and II) Distributors exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xix-b",
+      "displayName": "NISM Series XIX-B: Alternative Investment Funds (Category III) Distributors Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XIX-B: Alternative Investment Funds (Category III) Distributors Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-series-19b-alternative-investment-funds-category-3-distributors-certification-mock-tests",
+        "description": "NISM Series XIX-B mock test course for the Alternative Investment Funds (Category III) Distributors exam: 600 Mock Questions, explained Q&A, latest syllabus updates, 20 Case Study Questions. Free demo test: https://www.clearallexams.in/demo/nism-series-19-B-alternative-investment-funds-category-3-distributors-certification-mock-tests/1011",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-series-19-B-alternative-investment-funds-category-3-distributors-certification-mock-tests/1011"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XIX-B mock test",
+        "Alternative Investment Funds (Category III) Distributors exam practice questions",
+        "free Alternative Investment Funds (Category III) Distributors demo test",
+        "Alternative Investment Funds (Category III) Distributors exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-ii-a",
+      "displayName": "NISM Series II-A: Registrars to an Issue and Share Transfer Agents (Corporate) Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series II-A: Registrars to an Issue and Share Transfer Agents (Corporate) Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-2a-registrars-to-an-issue-and-share-transfer-agents-corporate-mock-tests",
+        "description": "NISM Series II-A mock test course for the Registrars to an Issue and Share Transfer Agents (Corporate) exam: 700 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/nism-exams-2-a-registrars-to-an-issue-and-share-transfer-agents-corporate-mock-tests/2",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-exams-2-a-registrars-to-an-issue-and-share-transfer-agents-corporate-mock-tests/2"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series II-A mock test",
+        "Registrars to an Issue and Share Transfer Agents (Corporate) exam practice questions",
+        "free Registrars to an Issue and Share Transfer Agents (Corporate) demo test",
+        "Registrars to an Issue and Share Transfer Agents (Corporate) exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-ii-b",
+      "displayName": "NISM Series II-B: Registrars to an Issue and Share Transfer Agents (Mutual Fund) Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series II-B: Registrars to an Issue and Share Transfer Agents (Mutual Fund) Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-2b-registrars-to-an-issue-and-share-transfer-agents-mutual-fund-certification-mock-tests",
+        "description": "NISM Series II-B mock test course for the Registrars to an Issue and Share Transfer Agents (Mutual Fund) exam: 700 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/nism-exams-2-b-registrars-to-an-issue-and-share-transfer-agents-mutual-fund-certification-mock-tests/3",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-exams-2-b-registrars-to-an-issue-and-share-transfer-agents-mutual-fund-certification-mock-tests/3"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series II-B mock test",
+        "Registrars to an Issue and Share Transfer Agents (Mutual Fund) exam practice questions",
+        "free Registrars to an Issue and Share Transfer Agents (Mutual Fund) demo test",
+        "Registrars to an Issue and Share Transfer Agents (Mutual Fund) exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-v-b",
+      "displayName": "NISM Series V-B: Mutual Fund Foundation Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series V-B: Mutual Fund Foundation Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-5b-mutual-fund-distributors-certification-mock-tests",
+        "description": "NISM Series V-B mock test course for the Mutual Fund Foundation exam: 500 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/nism-exams-5b-mutual-fund-distributors-certification-mock-tests/7",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-exams-5b-mutual-fund-distributors-certification-mock-tests/7"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series V-B mock test",
+        "Mutual Fund Foundation exam practice questions",
+        "free Mutual Fund Foundation demo test",
+        "Mutual Fund Foundation exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xxiv",
+      "displayName": "NISM Series XXIV: AML and CFT Provisions in Securities Markets Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XXIV: AML and CFT Provisions in Securities Markets Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-series-24-aml-and-cft-provisions-in-securities-markets-certification-mock-tests",
+        "description": "NISM Series XXIV mock test course for the AML and CFT Provisions in Securities Markets exam: 500 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/nism-series-24-aml-and-cft-provisions-in-securities-markets-certification-mock-tests/1041",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-series-24-aml-and-cft-provisions-in-securities-markets-certification-mock-tests/1041"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XXIV mock test",
+        "AML and CFT Provisions in Securities Markets exam practice questions",
+        "free AML and CFT Provisions in Securities Markets demo test",
+        "AML and CFT Provisions in Securities Markets exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-xix-e",
+      "displayName": "NISM Series XIX-E: Category III AIF Managers Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series XIX-E: Category III AIF Managers Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-19e-category-3-aif-managers-certification-mock-tests",
+        "description": "NISM Series XIX-E mock test course for the Category III AIF Managers exam: 600 Mock Questions, explained Q&A, latest syllabus updates. Free demo test: https://www.clearallexams.in/demo/nism-exams-19e-category-3-aif-managers-certification-mock-tests/1040",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 599,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/nism-exams-19e-category-3-aif-managers-certification-mock-tests/1040"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series XIX-E mock test",
+        "Category III AIF Managers exam practice questions",
+        "free Category III AIF Managers demo test",
+        "Category III AIF Managers exam preparation"
+      ]
+    },
+    {
+      "identifier": "urn:air:clearallexams.in:course:nism-series-v-d",
+      "displayName": "NISM Series V-D: Mutual Fund - Specialized Investment Fund Distributors Certification",
+      "type": "application/ld+json",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "NISM Series V-D: Mutual Fund - Specialized Investment Fund Distributors Certification Mock Tests",
+        "url": "https://www.clearallexams.in/nism-exams-5d-mutual-fund-specialized-investment-fund-distributors-certification-mock-tests",
+        "description": "NISM Series V-D mock test course for the Mutual Fund Specialized Investment Fund Distributors exam: 2300+ Mock Questions, explained Q&A, latest syllabus updates, chapter-wise video lectures. Free demo test: https://www.clearallexams.in/demo/NISM-Series-V-D-Mutual-Fund---Specialized-Investment-Fund-Distributors-Certification-Examination/1273",
+        "inLanguage": "en-IN",
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": "ClearAllExams.in",
+          "url": "https://www.clearallexams.in/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 1399,
+          "priceCurrency": "INR",
+          "url": "https://www.clearallexams.in/product/NISM-Series-V-D-Mutual-Fund---Specialized-Investment-Fund-Distributors-Certification-Examination/1273"
+        }
+      },
+      "representativeQueries": [
+        "NISM Series V-D mock test",
+        "Mutual Fund Specialized Investment Fund Distributors exam practice questions",
+        "free Mutual Fund Specialized Investment Fund Distributors demo test",
+        "Mutual Fund Specialized Investment Fund Distributors exam preparation"
+      ]
+    }
+  ]
+}

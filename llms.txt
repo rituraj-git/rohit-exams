@@ -1,0 +1,47 @@
+# ClearAllExams.in
+
+> Independent online platform (formerly NISMExams.in) for NISM certification exam preparation: mock tests, chapter-wise video lectures, revision notes and explained Q&A for 28+ NISM Series modules. Not affiliated with SEBI or NISM. Plans: Rs 599 (15 days) and Rs 699 (30 days) for most modules; a few modules such as Series XIII and V-D are priced higher. Free demo tests need no login.
+
+## Main pages
+- [Home](https://www.clearallexams.in/): all NISM courses, pricing, FAQs
+- [NISM mock tests](https://www.clearallexams.in/nism-exams-mock-tests): free demo tests
+- [FAQs](https://www.clearallexams.in/nism-exams-mock-test-faqs)
+- [Testimonials](https://www.clearallexams.in/nism-exams-mock-test-testimonials)
+- [Blog](https://www.clearallexams.in/nism-exams-mock-test-blogs)
+- [About us](https://www.clearallexams.in/about-us)
+
+## NISM Series mock test courses
+- [NISM Series V-A: Mutual Fund Distributors Certification](https://www.clearallexams.in/nism-exams-5a-mutual-fund-distributors-certification-mock-tests)
+- [NISM Series VIII: Equity Derivatives Certification](https://www.clearallexams.in/nism-exams-8-equity-derivatives-certification-mock-tests)
+- [NISM Series XV: Research Analyst Certification](https://www.clearallexams.in/nism-exams-15-research-analyst-certification-mock-tests)
+- [NISM Series I: Currency Derivatives Certification](https://www.clearallexams.in/nism-exams-1-currency-derivatives-certification-mock-tests)
+- [NISM Series XIII: Common Derivative Certification](https://www.clearallexams.in/nism-exams-13-common-derivative-certification-mock-tests)
+- [NISM Series VI: Depository Operations Certification](https://www.clearallexams.in/nism-exams-6-depository-operations-certification-mock-tests)
+- [NISM Series XXI-A: Portfolio Management Services (PMS) Distributors Certification](https://www.clearallexams.in/nism-exams-21a-portfolio-management-services-pms-certification-mock-tests)
+- [NISM Series XXI-B: Portfolio Managers Certification](https://www.clearallexams.in/nism-exams-21b-portfolio-managers-certification-mock-tests)
+- [NISM Series X-A: Investment Adviser (Level 1) Certification](https://www.clearallexams.in/nism-exams-10a-investment-adviser-level-1-certification-mock-tests)
+- [NISM Series X-B: Investment Adviser (Level 2) Certification](https://www.clearallexams.in/nism-exams-10b-investment-adviser-level-2-certification-mock-tests)
+- [NISM Series VII: Securities Operations & Risk Management Certification](https://www.clearallexams.in/nism-exams-7-securities-operations-risk-management-certification-mock-tests)
+- [NISM Series IX: Merchant Banking Certification](https://www.clearallexams.in/nism-exams-9-merchant-banking-certification-mock-tests)
+- [NISM Series XIX-C: Alternative Investment Funds (AIF) Managers Certification](https://www.clearallexams.in/nism-exams-19c-alternative-investment-fund-managers-certification-mock-tests)
+- [NISM Series XIX-D: Category I & II AIF Managers Certification](https://www.clearallexams.in/nism-exams-19d-alternative-investment-fund-managers-certification-mock-tests)
+- [NISM Series IV: Interest Rates Derivatives Certification](https://www.clearallexams.in/nism-exams-4-interest-rates-derivatives-certification-examination-mock-tests)
+- [NISM Series XVII: Retirement Adviser Certification](https://www.clearallexams.in/nism-exams-17-retirement-adviser-certification-mock-tests)
+- [NISM Series XVI: Commodity Derivatives Certification](https://www.clearallexams.in/nism-exams-16-commodity-derivatives-certification-mock-tests)
+- [NISM Series XII: Securities Markets Foundation Certification](https://www.clearallexams.in/nism-series-12-securities-markets-foundation-certification-mock-tests)
+- [NISM Series III-A: Securities Intermediaries Compliance (Non-Fund) Certification](https://www.clearallexams.in/nism-series-3a-securities-intermediaries-compliance-non-fund-certification-mock-tests)
+- [NISM Series III-C: Securities Intermediaries Compliance (Fund) Certification](https://www.clearallexams.in/nism-series-3c-securities-intermediaries-compliance-fund-certification-mock-test)
+- [NISM Series XIX-A: Alternative Investment Funds (Category I and II) Distributors Certification](https://www.clearallexams.in/nism-series-19a-alternative-investment-funds-category-1-and-2-distributors-certification-mock-tests)
+- [NISM Series XIX-B: Alternative Investment Funds (Category III) Distributors Certification](https://www.clearallexams.in/nism-series-19b-alternative-investment-funds-category-3-distributors-certification-mock-tests)
+- [NISM Series II-A: Registrars to an Issue and Share Transfer Agents (Corporate) Certification](https://www.clearallexams.in/nism-exams-2a-registrars-to-an-issue-and-share-transfer-agents-corporate-mock-tests)
+- [NISM Series II-B: Registrars to an Issue and Share Transfer Agents (Mutual Fund) Certification](https://www.clearallexams.in/nism-exams-2b-registrars-to-an-issue-and-share-transfer-agents-mutual-fund-certification-mock-tests)
+- [NISM Series V-B: Mutual Fund Foundation Certification](https://www.clearallexams.in/nism-exams-5b-mutual-fund-distributors-certification-mock-tests)
+- [NISM Series XXIV: AML and CFT Provisions in Securities Markets Certification](https://www.clearallexams.in/nism-series-24-aml-and-cft-provisions-in-securities-markets-certification-mock-tests)
+- [NISM Series XIX-E: Category III AIF Managers Certification](https://www.clearallexams.in/nism-exams-19e-category-3-aif-managers-certification-mock-tests)
+- [NISM Series V-D: Mutual Fund - Specialized Investment Fund Distributors Certification](https://www.clearallexams.in/nism-exams-5d-mutual-fund-specialized-investment-fund-distributors-certification-mock-tests)
+
+## Other
+- [IRDAI IC 38 Insurance Agent mock test](https://www.clearallexams.in/irdai-exams-ic-38-insurance-agent-exams-mock-tests)
+
+## Contact
+info@clearallexams.in | +91-7518147771 | Noida, Uttar Pradesh, India
